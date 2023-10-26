@@ -4,3 +4,7 @@ build/
 *.so
 *_model_*
 dump/
+_pydart2/
+*.mp4
+json/
+
